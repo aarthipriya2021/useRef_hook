@@ -12,3 +12,8 @@ function App() {
 }
 
 export default App;
+
+// Uses:
+//Managing focus, text selection, or media playback
+//Triggering imperative animations
+//Integrating with third-party DOM libraries
